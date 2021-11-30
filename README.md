@@ -1,2 +1,3 @@
-installl - npm install
-start - npm run dev
+
+### To start 
+##### npm run dev
